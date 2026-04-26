@@ -1,0 +1,5 @@
+#TpaMod Settings
+#传送请求有效时间（秒），超过此时间未处理的请求会自动取消
+#Range: 5 ~ 3600
+requestTimeoutSeconds = 60
+

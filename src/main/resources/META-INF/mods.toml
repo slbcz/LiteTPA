@@ -1,0 +1,11 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="All rights reserved"
+
+[[mods]]
+modId="tpamod"
+version="1.0.0"
+displayName="LiteTpa"
+logoFile="icon.png"
+description="简洁的传送请求模组，无需OP权限"
+authors="MOrangeSAMA"
